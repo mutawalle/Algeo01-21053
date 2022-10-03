@@ -19,7 +19,7 @@ Tugas Besar Pertama mata kuliah Aljabar Linier dan Geometri.
 4. Buka terminal di folder yang telah diekstrak
   
 5. jalankan
-  > & java '-cp' <path folder bin> 'src.algeo.InputOutput.Main'
+  > & java '-cp' 'path folder bin' 'src.algeo.InputOutput.Main'
   
   contoh:
   
